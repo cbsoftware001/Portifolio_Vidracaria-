@@ -22,3 +22,22 @@
     <script type="text/javascript" src="Assets/Js/Script.js"></script>
 </head>
 <body>
+<!-- Section Nav Bar -->
+<section class="nav-bar-top">
+    <div class="container">
+        <article>
+            <p>Fale Conosco</p>
+            <p><i class="fas fa-phone-alt"></i> (00) 0 0000-0000</p>
+            <p><i class="fas fa-envelope"></i> emaildocliente@email.com</p>
+        </article>
+        <article>
+            <a href="facebook.com"> <i class="fab fa-facebook-f"></i></a>
+        </article>
+    </div>
+</section>
+<!-- Section  nav-bar-->
+<section class="nav-bar">
+    <div class="container">
+        
+    </div>
+</section>

@@ -14,3 +14,40 @@
     display: flex;
     justify-content: space-between;
 }
+/* Personalização do nav bar */
+.nav-bar-top{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: #2992d6;
+}
+.nav-bar-top article{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+.nav-bar-top article p{
+    display: inline-block;
+    padding: 10px;
+}
+.nav-bar-top article:last-child a{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: #fff;
+    transition: all 0.2s;
+}
+.nav-bar-top article i{
+    margin: 0px 10px;
+}
+.nav-bar-top article:last-child a:hover{
+    background-color: #fff;
+    color: #2992d6;
+}
+
+/* Personalizando a Section nav-bar */
