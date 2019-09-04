@@ -38,6 +38,24 @@
 <!-- Section  nav-bar-->
 <section class="nav-bar">
     <div class="container">
-        
+        <!-- logo da empresa -->
+        <figure>
+            <img src="" alt="">
+        </figure>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Empresa</a></li>
+                <li><a href="">Serviçoes</a></li>
+                <li><a href="">Galeria de Fotos</a></li>
+                <li><a href="">Contato</a></li>
+                    <i class="fas fa-search" onclick="openAreaSearch()" id=""></i>
+                <div class="areaSarch">
+                    <form action="" method="post">
+                        <input type="text" name="" id="" placeholder="Pesquisar">
+                    </form>
+                </div>
+            </ul>
+        </nav>
     </div>
 </section>

@@ -1,0 +1,3 @@
+function openAreaSearch(){
+    alert("Clicou :)");
+}
