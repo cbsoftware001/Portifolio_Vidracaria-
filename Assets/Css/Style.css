@@ -305,7 +305,7 @@
     justify-content: space-around;
 }
 .description-service .area-description-service section ul li{
-    width: 220px;
+    width: auto;
     list-style-type:disc;
     color: #aaa;
     margin-bottom: 20px;
