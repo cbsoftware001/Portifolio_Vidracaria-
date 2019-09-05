@@ -112,3 +112,33 @@
     outline: none;
     border-radius: 10px;
 }
+
+/* Personalizando a Section Banner */
+.banner{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    background-image: url('../Images/wallpaper.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.banner > .container{
+    align-items: center;
+}
+.banner article{
+    width: 40%;
+    height: 40px;
+    background-color: #2992d6;
+    opacity: 0.5;;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.banner article p{
+    font-size: 22px;
+    font-weight: bold;
+    
+}
