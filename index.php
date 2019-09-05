@@ -152,5 +152,12 @@
         </div>
     </div>
 </section>
+<!-- Criando a Section News Latter -->
+<section class="newslattle">
+    <div class="container">
+        <h1>PROJETOS EM VIDRO, ALUMÍNIO E INOX</h1>
+        <h2>SOLICITE UM ORÇAMENTO</h2>
+    </div>
+</section>
 <!-- Requisitando Roda-pé da Pagina -->
 <?php require_once 'Template/Footer.php'; ?>
