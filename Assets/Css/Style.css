@@ -128,7 +128,7 @@
     align-items: center;
 }
 .banner article{
-    width: 40%;
+    width: 50%;
     height: 40px;
     background-color: #2992d6;
     opacity: 0.5;;
@@ -141,4 +141,46 @@
     font-size: 22px;
     font-weight: bold;
     
+}
+
+/* Personaliadno a Section welcome */
+.welcome{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.welcome .container{
+    justify-content: center;
+}
+.welcome article{
+    width: 880px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.welcome article h1{
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: #444444;
+    margin-bottom: 30px;
+}
+.welcome article p{
+    font-size: 16px;
+    color: #888;
+    line-height: 25px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.welcome article a{
+    display: inline-block;
+    padding: 20px;
+    background-color: #2992d6;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius:5px;
+    font-size: 16px;
 }
