@@ -44,11 +44,11 @@
         </figure>
         <nav>
             <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Empresa</a></li>
-                <li><a href="">Serviçoes</a></li>
-                <li><a href="">Galeria de Fotos</a></li>
-                <li><a href="">Contato</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="empresa.php">Empresa</a></li>
+                <li><a href="servico.php">Serviçoes</a></li>
+                <li><a href="galeria.php">Galeria de Fotos</a></li>
+                <li><a href="contato.php">Contato</a></li>
                     <i class="fas fa-search" onclick="openAreaSearch()" id=""></i>
                 <div class="areaSarch">
                     <form action="" method="post">
