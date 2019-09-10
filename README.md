@@ -1,4 +1,4 @@
-<h1>Projeto Vidraçaria</h1>
+<h1>Projeto Vidraçaria</h1><strong>SoftWare</strong>
 <img src="Assets/Images/cb-logo.png" width="80px">
 INICIANDO O PROJETO PORTIFOLIO DE UMA VIDRAÇARIA, ESSE PROJETO NÃO ESTA COMPLETO,
 AINDA ESTOU CRIANDO AS TELAS QUE FALTAM, PRA DEPOIS DEIXA-LO RESPOSIVO, PESSO QUE MANTENHA 
