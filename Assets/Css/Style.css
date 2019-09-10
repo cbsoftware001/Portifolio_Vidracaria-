@@ -348,10 +348,30 @@ footer{
     justify-content: center;
     background-color: #2992d6;
     color: #fff;
-    font-size: 16px;
-    font-weight: bolder;
+    font-size: 14px;
 }
-footer p a{
-    
-    color: #f6f205;
+footer .container {
+    align-items: center;
+}
+footer section{
+    width: 100%;
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer section article{
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: #fff;
+}
+footer section a{
+    display: inline-block;
+    color: #fff;
+    font-size: 16px;
+}
+footer section a i{
+    font-size: 30px;
 }

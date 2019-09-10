@@ -23,7 +23,7 @@
 </head>
 <body>
 <!-- Section Nav Bar -->
-<section class="nav-bar-top">
+<section class="nav-bar-top" id="top">
     <div class="container">
         <article>
             <p>Fale Conosco</p>
