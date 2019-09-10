@@ -3,10 +3,10 @@
         <!-- <p>Desenvolvido por <a href="cbsoftware.com.br">CbSoftWare Company</a></p> -->
         <section>
             <article>
-                <p>Todos Direitos Reservados ® 2017 Vidraçaria Pinhais</p>
+                <p>Todos Direitos Reservados ® 2019 Vidraçaria </p>
                 <p>
-                    Rua Rafael Percicotti, 292 - Maria Antonieta - Pinhais/PR CEP: 83331-250 <br>
-                    Telefones: (41) 3669-2563 / (41) 99940-1614 (Whatsapp) | contato@vidracariapinhais.com.br
+                    Rua Logo Ali, 000 - Fulano de Tals - Ali/BA CEP: 00000-00000 <br>
+                    Telefones: (00) 0000-0000 / (00) 00000-0000 (Whatsapp) | contato@vidracaria.com.br
                 </p>
                 <p>Desenvolvido pela CbSoftWare Company</p>
             </article>
