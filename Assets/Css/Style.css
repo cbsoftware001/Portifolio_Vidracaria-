@@ -375,3 +375,52 @@ footer section a{
 footer section a i{
     font-size: 50px;
 }
+
+/* CONFIGURAÇÕES EXTRAS */
+.min-hader{
+    width: 100%;
+    height: 210px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #444;
+    margin-bottom: 50px;
+}
+.min-hader .min-banner{
+    width: 100%;
+    height: 125px;
+    display: flex;
+    justify-content: center;
+    background-image: url('../Images/wallpaper.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.min-hader .min-nav-bar{
+    width: 100%;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    background-color: #2992d6;
+}
+.min-hader .min-nav-bar > .container{
+    height: 85px;
+    align-items: center;
+    color: #fff;
+}
+.min-hader .min-nav-bar > .container p{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.min-hader .min-nav-bar > .container nav{
+    display: flex;
+}
+.min-hader .min-nav-bar > .container nav li:first-child a{
+    color: #fff;
+}
+.min-hader .min-nav-bar > .container nav li{
+    color: #fff;
+    margin: 0px 20px;
+}
+
+/* FINAL DAS CONFIGURAÇÕES EXTRAS */
